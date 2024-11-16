@@ -7,11 +7,11 @@ My first repository
 ## Overview
 The series is a blend of classic television and the Marvel Cinematic Universe in which Wanda Maximoff and Vision—two super-powered beings living idealized suburban lives—begin to suspect that everything is not as it seems.
 
-**Release Date:** January 15, 2021
-**Network:** Disney+
-**Director:** Matt Shakman
-**Head Writer:** Jac Schaeffer
-**Cast:** 
+- **Release Date:** January 15, 2021
+- **Network:** Disney+
+- **Director:** Matt Shakman
+- **Head Writer:** Jac Schaeffer
+- **Cast:** 
 1. **Elizabeth Olsen**
 2. **Paul Bettany**
 3. **Kat Dennings**
