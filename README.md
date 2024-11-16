@@ -20,7 +20,7 @@ The series is a blend of classic television and the Marvel Cinematic Universe in
 6. **Teyonah Parris**
 
 **Memorable Lines**
-> *"But what is grief, if not love persevering?"* – Vision
-> *"Thanks for the lesson…but I don’t need you to tell me who I am."* – Wanda
+- > *"But what is grief, if not love persevering?"* – Vision
+- > *"Thanks for the lesson…but I don’t need you to tell me who I am."* – Wanda
 
 **Source:** [Marvel's Official WandaVision Page](https://www.marvel.com/tv-shows/wandavision/1)
